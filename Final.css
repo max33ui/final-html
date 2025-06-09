@@ -1,0 +1,19 @@
+div {
+padding: 0.2em 0.4em;
+text-shadow:
+    0 0 16px rgba(255, 217, 0, 0.993),
+    0 0 12px rgba(0, 238, 255, 0.4);
+   color: whitesmoke;
+   background-image: linear-gradient(to right, #c20707, #0214b9);
+font-style: oblique;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+font-size: 45px;
+background-image: url(pexels-garrettmorrow-682933.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+padding: auto;
+padding-left: 200px;
+height: 1500px;
+width: 100%;
+}
